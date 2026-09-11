@@ -7,7 +7,7 @@ const typed = document.getElementById("typedMessage");
 
 const message = `Happy Girlfriend's Day ❤️
 
-Dear Renu,
+Dear Babe❤️,
 
 Every heartbeat whispers your name.
 
